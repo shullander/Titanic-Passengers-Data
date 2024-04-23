@@ -7,3 +7,6 @@ This repository contains a .csv file that contains a dataset of real Titanic Pas
   
 This Repository also contains a Python Notebook with instructions on creating a subset of this data.
 ## Purpose
+
+## Visualization
+![alt-text]([image.jpg](https://1drv.ms/i/s!AmLRUTvo56fMhXPMkqIciZeexChV?e=ahJGkh))
