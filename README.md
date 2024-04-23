@@ -9,4 +9,4 @@ This Repository also contains a Python Notebook with instructions on creating a 
 ## Purpose
 
 ## Visualization
-![alt-text](Downloads/survival-by-class)
+![alt-text](survival-by-class)
