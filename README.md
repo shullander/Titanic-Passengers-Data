@@ -15,6 +15,6 @@ It also contains instructions on using Python and Pandas to create subsets and l
 ## Visualization
 This bar graph shows the rates of survivals and deaths within each class.
 
-![alt-text](C:\Users\snhul\Downloads\survival-by-class.png)
+![alt-text](survival-by-class.png)
 
 The above data visualization was made using [Datawrapper](https://www.datawrapper.de/)
