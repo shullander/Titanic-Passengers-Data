@@ -1,11 +1,11 @@
 # Titanic-Passengers-Data
 This is a Repository created for Professor Gotzler's English 105 Class at UNC Chapel Hill.
 ## Contents
-This repository contains a [.csv file](train.csv) that contains a dataset of real Titanic Passengers.
+- This repository contains a [.csv file](train.csv) that contains a dataset of real Titanic Passengers.
 
   *Note that the dataset does not contain **all** Titanic Passengers*
   
-This Repository also contains a [Python Notebook](TitanicSurvival.ipynb) with instructions on creating a subset of this data.
+- This Repository also contains a [Python Notebook](TitanicSurvival.ipynb) with instructions on creating a subset of this data.
 ## About the Data
 - The data in the train.csv file was created to be used in a [machine learning competition](https://www.kaggle.com/competitions/titanic/overview) on the website, Kaggle. 
 - The dataset that I used is a subset of 891 passengers containing information about them such as name, age, sex, ticket class, etc. it also includes whether or not they survived.
@@ -17,7 +17,8 @@ This Repository also contains a [Python Notebook](TitanicSurvival.ipynb) with in
 - The repository also contains instructions on using Python and Pandas in the [Python Notebook](TitanicSurvival.ipynb) to create subsets and learn more about your data. These techniques and strategies can be applied to other datasets as well.
 
 ## Visualization
-The bar graph below shows the rates of survivals and deaths grouped by class.
+- The bar graph below shows the rates of survivals and deaths grouped by class.
+- The data used in this graph was collected through the process described and demonstrated in this [Python Notebook](TitanicSurvival.ipynb).
 
 ![alt-text](survival-by-class.png)
 
